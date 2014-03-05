@@ -1,1 +1,1 @@
-See http://thejoeconwayblog.wordpress.com/2013/05/14/stktableviewcell-simplifying-uitableviewcell/ for details.
+See http://stablekernel.com/blog/uibuttons-and-uicontrols-in-uitableviewcell-made-easy/ for details.
